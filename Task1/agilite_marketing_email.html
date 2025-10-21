@@ -5,40 +5,183 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Explore Agilite Tactical Gear</title>
+    <style type="text/css">
+        /* Base */
+        body.email-body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        table.outer {
+            background-color: #f4f4f4;
+        }
+
+        table.card {
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Layout & alignment */
+        .p-0 {
+            padding: 0;
+        }
+
+        .px-30 {
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .pb-20 {
+            padding-bottom: 20px;
+        }
+
+        .pb-30 {
+            padding-bottom: 30px;
+        }
+
+        .container-cell {
+            padding: 20px 0;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .grid-col {
+            width: 50%;
+            padding: 0 5px 20px;
+            vertical-align: top;
+        }
+
+        .hero {
+            padding: 40px 30px 30px;
+            text-align: center;
+            background-color: #ffffff;
+        }
+
+        /* Typography */
+        .heading-xl {
+            margin: 0 0 15px;
+            font-size: 32px;
+            line-height: 1.2;
+            color: #333333;
+            font-weight: bold;
+        }
+
+        .lead {
+            margin: 0 0 25px;
+            font-size: 16px;
+            line-height: 1.4;
+            color: #666666;
+        }
+
+        .footer-text {
+            margin: 0;
+            font-size: 14px;
+            line-height: 1.4;
+            color: #666666;
+        }
+
+        .footer-note {
+            margin: 0;
+            font-size: 12px;
+            line-height: 1.4;
+            color: #999999;
+        }
+
+        /* Links & buttons */
+        .no-underline {
+            text-decoration: none;
+        }
+
+        .link {
+            color: #007cba;
+            text-decoration: none;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: #000000;
+            color: #ffffff;
+            font-size: 14px;
+            font-weight: bold;
+            padding: 10px 18px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin-top: 15px;
+        }
+
+        /* Images */
+        .img-fluid {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .img-rounded {
+            border-radius: 4px;
+        }
+
+        .center-img {
+            margin: 0 auto;
+        }
+
+        /* Sections */
+        .footer {
+            padding: 30px;
+            text-align: center;
+            background-color: #f8f8f8;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .preheader {
+            display: none !important;
+            font-size: 1px;
+            color: #fefefe;
+            line-height: 1px;
+            max-height: 0px;
+            max-width: 0px;
+            opacity: 0;
+            overflow: hidden;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
 </head>
 
-<body style="margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; background-color: #f4f4f4;">
+<body class="email-body">
     <!-- Preheader Text -->
-    <div
-        style="display: none; font-size: 1px; color: #fefefe; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+    <div class="preheader">
         Discover professional tactical gear and equipment for military, law enforcement, and outdoor enthusiasts.
     </div>
 
-    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"
-        style="background-color: #f4f4f4;">
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" class="outer">
         <tr>
-            <td align="center" style="padding: 20px 0;">
-                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600"
-                    style="background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <td align="center" class="container-cell">
+                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" class="card">
 
                     <!-- Logo Banner Header -->
                     <tr>
-                        <td style="padding: 0; text-align: center;">
-                            <a href="https://agilitegear.com/" style="text-decoration: none;">
+                        <td class="p-0 text-center">
+                            <a href="https://agilitegear.com/" class="no-underline">
                                 <img src="Images/Logo12.jpg" alt="Agilite Logo Banner" width="600" height="120"
-                                    style="max-width: 100%; height: auto; display: block;">
+                                    class="img-fluid">
                             </a>
                         </td>
                     </tr>
 
                     <!-- Hero Section -->
                     <tr>
-                        <td style="padding: 40px 30px 30px; text-align: center; background-color: #ffffff;">
-                            <h1
-                                style="margin: 0 0 15px; font-size: 32px; line-height: 1.2; color: #333333; font-weight: bold;">
+                        <td class="hero">
+                            <h1 class="heading-xl">
                                 Explore Agilite Tactical Gear
                             </h1>
-                            <p style="margin: 0 0 25px; font-size: 16px; line-height: 1.4; color: #666666;">
+                            <p class="lead">
                                 Professional-grade equipment designed for the most demanding environments
                             </p>
                         </td>
@@ -46,23 +189,22 @@
 
                     <!-- Product Categories Grid -->
                     <tr>
-                        <td style="padding: 0 30px 30px;">
+                        <td class="px-30 pb-30">
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                                 <tr>
                                     <!-- Category 1 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/combat-gear"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/02.jpg" alt="Tactical Gear Category 1"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
                                                     <a href="https://agilitegear.com/collections/combat-gear"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                        class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -70,19 +212,18 @@
                                         </table>
                                     </td>
                                     <!-- Category 2 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/plate-carriers"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/03.jpg" alt="Tactical Gear Category 2"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
                                                     <a href="https://agilitegear.com/collections/plate-carriers"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                        class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -92,19 +233,17 @@
                                 </tr>
                                 <tr>
                                     <!-- Category 3 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/pouches"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/04.jpg" alt="Tactical Gear Category 3"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
-                                                    <a href="https://agilitegear.com/collections/pouches"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                    <a href="https://agilitegear.com/collections/pouches" class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -112,19 +251,18 @@
                                         </table>
                                     </td>
                                     <!-- Category 4 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/tactical-backpacks"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/05.jpg" alt="Tactical Gear Category 4"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
                                                     <a href="https://agilitegear.com/collections/tactical-backpacks"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                        class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -134,19 +272,17 @@
                                 </tr>
                                 <tr>
                                     <!-- Category 5 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/bundles"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/06.jpg" alt="Tactical Gear Category 5"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
-                                                    <a href="https://agilitegear.com/collections/bundles"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                    <a href="https://agilitegear.com/collections/bundles" class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -154,19 +290,18 @@
                                         </table>
                                     </td>
                                     <!-- Category 6 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/helmet-covers"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/07.jpg" alt="Tactical Gear Category 6"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
                                                     <a href="https://agilitegear.com/collections/helmet-covers"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                        class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -176,19 +311,18 @@
                                 </tr>
                                 <tr>
                                     <!-- Category 7 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/tactical-gloves"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/08.jpg" alt="Tactical Gear Category 7"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
                                                     <a href="https://agilitegear.com/collections/tactical-gloves"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                        class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -196,19 +330,17 @@
                                         </table>
                                     </td>
                                     <!-- Category 8 -->
-                                    <td style="width: 50%; padding: 0 5px 20px; vertical-align: top;">
+                                    <td class="grid-col">
                                         <table role="presentation" cellspacing="0" cellpadding="0" border="0"
                                             width="100%">
                                             <tr>
-                                                <td style="text-align: center;">
+                                                <td class="text-center">
                                                     <a href="https://agilitegear.com/collections/apparel"
-                                                        style="text-decoration: none;">
+                                                        class="no-underline">
                                                         <img src="Images/09.jpg" alt="Tactical Gear Category 8"
-                                                            width="280" height="280"
-                                                            style="max-width: 100%; height: auto; display: block; border-radius: 4px;">
+                                                            width="280" height="280" class="img-fluid img-rounded">
                                                     </a>
-                                                    <a href="https://agilitegear.com/collections/apparel"
-                                                        style="display: inline-block; background-color: #000000; color: #ffffff; font-size: 14px; font-weight: bold; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin-top: 15px;">
+                                                    <a href="https://agilitegear.com/collections/apparel" class="btn">
                                                         Shop Now
                                                     </a>
                                                 </td>
@@ -222,43 +354,40 @@
 
                     <!-- Contact Us Banner -->
                     <tr>
-                        <td style="padding: 0 30px 20px; text-align: center;">
-                            <a href="https://agilitegear.com/" style="text-decoration: none;">
+                        <td class="text-center px-30 pb-20">
+                            <a href="https://agilitegear.com/" class="no-underline">
                                 <img src="Images/ContactUs10.jpg" alt="Contact Us Banner" width="540" height="120"
-                                    style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+                                    class="img-fluid center-img">
                             </a>
                         </td>
                     </tr>
 
                     <!-- Social Media Banner -->
                     <tr>
-                        <td style="padding: 0 30px 30px; text-align: center;">
-                            <a href="https://agilitegear.com/" style="text-decoration: none;">
+                        <td class="text-center px-30 pb-30">
+                            <a href="https://agilitegear.com/" class="no-underline">
                                 <img src="Images/SocialMedia11.jpg" alt="Social Media Banner" width="540" height="120"
-                                    style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+                                    class="img-fluid center-img">
                             </a>
                         </td>
                     </tr>
 
                     <!-- Footer -->
                     <tr>
-                        <td
-                            style="padding: 30px; text-align: center; background-color: #f8f8f8; border-top: 1px solid #e0e0e0;">
+                        <td class="footer">
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                                 <tr>
                                     <td style="text-align: center; padding-bottom: 15px;">
-                                        <p style="margin: 0; font-size: 14px; line-height: 1.4; color: #666666;">
-                                            <a href="https://agilitegear.com/"
-                                                style="color: #007cba; text-decoration: none;">Visit Our Store</a>
+                                        <p class="footer-text">
+                                            <a href="https://agilitegear.com/" class="link">Visit Our Store</a>
                                         </p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td style="text-align: center;">
-                                        <p style="margin: 0; font-size: 12px; line-height: 1.4; color: #999999;">
+                                        <p class="footer-note">
                                             You received this email because you subscribed to Agilite updates.<br>
-                                            <a href="{{UNSUBSCRIBE_LINK}}"
-                                                style="color: #007cba; text-decoration: none;">Unsubscribe</a>
+                                            <a href="{{UNSUBSCRIBE_LINK}}" class="link">Unsubscribe</a>
                                         </p>
                                     </td>
                                 </tr>
@@ -271,7 +400,7 @@
     </table>
 
     <!-- Plain Text Fallback -->
-    <div style="display: none;">
+    <div class="hidden">
         <!-- Plain text version for accessibility -->
         Agilite Tactical Gear
 
