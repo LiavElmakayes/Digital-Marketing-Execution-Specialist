@@ -1,0 +1,372 @@
+Ad name,Platform,Campaign name,Ad Set Name,Impressions,Clicks,Results,Amount Spent,CTR,CPC,CPM,CPL
+Video 1,Instagram,Website - EU,Lookalike,1245,29,11,$5.24,2.33%,0.180689655,4.208835341,0.476363636
+Video 1,Facebook,Website - EU,Lookalike,808,33,6,$2.69,4.08%,0.081515152,3.329207921,0.448333333
+Video 1,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Video 2,Instagram,Website - EU,Lookalike,534,8,3,$2.59,1.50%,0.32375,4.850187266,0.863333333
+Video 2,Facebook,Website - EU,Lookalike,277,9,,$1.37,3.25%,0.152222222,4.945848375,0
+Video 3,Facebook,Facebook Leads - EU,Lookalike,316,18,4,$1.25,5.70%,0.069444444,3.955696203,0.3125
+Video 3,Instagram,Website - EU,Lookalike,151,4,2,$0.76,2.65%,0.19,5.033112583,0.38
+Video 3,Facebook,Website - EU,Lookalike,91,1,2,$0.51,1.10%,0.51,5.604395604,0.255
+Video 3,Instagram,Facebook Leads - EU,Lookalike,359,3,1,$1.86,0.84%,0.62,5.181058496,1.86
+Video 4,Facebook,Website - EU,Lookalike,77,3,1,$0.35,3.90%,0.116666667,4.545454545,0.35
+Video 4,Instagram,Facebook Leads - EU,Lookalike,103,1,,$0.35,0.97%,0.35,3.398058252,0
+Video 4,Facebook,Facebook Leads - EU,Lookalike,72,0,,$0.14,0.00%,0,1.944444444,0
+Video 4,Instagram,Website - EU,Lookalike,111,1,,$0.68,0.90%,0.68,6.126126126,0
+Video 5,Instagram,Website - EU,Lookalike,245,4,4,$1.28,1.63%,0.32,5.224489796,0.32
+Video 5,Instagram,Facebook Leads - EU,Lookalike,228,5,,$1.03,2.19%,0.206,4.51754386,0
+Video 5,Facebook,Facebook Leads - EU,Lookalike,115,1,,$0.43,0.87%,0.43,3.739130435,0
+Video 5,Facebook,Website - EU,Lookalike,79,3,,$0.37,3.80%,0.123333333,4.683544304,0
+Video 6,Instagram,Facebook Leads - US,Lookalike,300,12,4,$3.15,4.00%,0.2625,10.5,0.7875
+Video 6,Instagram,Facebook Leads - EU,Lookalike,79,6,3,$0.37,7.59%,0.061666667,4.683544304,0.123333333
+Video 6,Facebook,Facebook Leads - US,Lookalike,204,14,3,$1.31,6.86%,0.093571429,6.421568627,0.436666667
+Video 6,Facebook,Facebook Leads - EU,Lookalike,189,10,1,$0.69,5.29%,0.069,3.650793651,0.69
+Image 1 - Ranger Green - CTA,Facebook,Website - US,Lookalike,2697,74,39,$20.16,2.74%,0.272432432,7.474972191,0.516923077
+Image 1 - Ranger Green - CTA,Instagram,Website - US,Lookalike,1475,66,36,$18.82,4.47%,0.285151515,12.75932203,0.522777778
+Image 1 - Ranger Green - CTA,Instagram,Facebook Leads - EU,Lookalike,601,16,6,$2.88,2.66%,0.18,4.792013311,0.48
+Image 1 - Ranger Green - CTA,Facebook,Website - EU,Lookalike,629,15,4,$2.58,2.38%,0.172,4.101748808,0.645
+Image 1 - Ranger Green - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,200,9,2,$0.97,4.50%,0.107777778,4.85,0.485
+Image 1 - Ranger Green - CTA,Instagram,Facebook Leads - US,Lookalike,161,5,2,$2.17,3.11%,0.434,13.47826087,1.085
+Image 1 - Ranger Green - CTA,Facebook,Facebook Leads - EU,Lookalike,1137,20,2,$2.29,1.76%,0.1145,2.01407212,1.145
+Image 1 - Ranger Green - CTA,Facebook,Facebook Leads - US,Lookalike,113,3,1,$0.75,2.65%,0.25,6.637168142,0.75
+Image 1 - Ranger Green - CTA,Instagram,Website - EU,Lookalike,669,9,1,$3.24,1.35%,0.36,4.843049327,3.24
+Image 1 - Ranger Green - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,57,1,,$0.37,1.75%,0.37,6.49122807,0
+Image 1 - Ranger Green - CTA,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 1 - Ranger Green - CTA,Audience Network,Website - US,Lookalike,6,0,,$0.01,0.00%,0,1.666666667,0
+Image 2 - Multicam - CTA,Instagram,Website - US,Lookalike,565,28,20,$8.42,4.96%,0.300714286,14.90265487,0.421
+Image 2 - Multicam - CTA,Facebook,Website - US,Lookalike,851,26,15,$5.75,3.06%,0.221153846,6.756756757,0.383333333
+Image 2 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,523,21,9,$4.68,4.02%,0.222857143,8.948374761,0.52
+Image 2 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,1910,35,5,$4.03,1.83%,0.115142857,2.109947644,0.806
+Image 2 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,224,11,4,$1.51,4.91%,0.137272727,6.741071429,0.3775
+Image 2 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,652,15,4,$3.19,2.30%,0.212666667,4.892638037,0.7975
+Image 2 - Multicam - CTA,Instagram,Website - EU,Lookalike,384,8,2,$2.03,2.08%,0.25375,5.286458333,1.015
+Image 2 - Multicam - CTA,Facebook,Website - EU,Lookalike,212,6,1,$0.89,2.83%,0.148333333,4.198113208,0.89
+Image 2 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,76,1,,$0.76,1.32%,0.76,10,0
+Image 2 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,424,2,,$2.26,0.47%,1.13,5.330188679,0
+Image 3 - Multicam - NO CTA,Instagram,Website - EU,Lookalike,5263,113,28,$18.48,2.15%,0.163539823,3.511305339,0.66
+Image 3 - Multicam - NO CTA,Facebook,Website - US,Lookalike,1401,33,21,$9.34,2.36%,0.283030303,6.666666667,0.444761905
+Image 3 - Multicam - NO CTA,Facebook,Facebook Leads - US,Lookalike,554,30,10,$4.80,5.42%,0.16,8.664259928,0.48
+Image 3 - Multicam - NO CTA,Facebook,Website - EU,Lookalike,2158,58,10,$6.28,2.69%,0.108275862,2.910101946,0.628
+Image 3 - Multicam - NO CTA,Instagram,Facebook Leads - EU,Lookalike,1575,39,9,$7.83,2.48%,0.200769231,4.971428571,0.87
+Image 3 - Multicam - NO CTA,Instagram,Facebook Leads - US,Lookalike,553,20,6,$6.85,3.62%,0.3425,12.38698011,1.141666667
+Image 3 - Multicam - NO CTA,Instagram,Website - US,Lookalike,274,8,3,$3.63,2.92%,0.45375,13.24817518,1.21
+Image 3 - Multicam - NO CTA,Facebook,Facebook Leads - EU,Lookalike,1863,27,2,$4.67,1.45%,0.172962963,2.506709608,2.335
+Image 3 - Multicam - NO CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,131,2,1,$1.09,1.53%,0.545,8.320610687,1.09
+Image 3 - Multicam - NO CTA,Uncategorized,Website - EU,Lookalike,0,0,1,$0.00,0.00%,0,0,0
+Image 3 - Multicam - NO CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,86,0,,$0.44,0.00%,0,5.11627907,0
+Image 3 - Multicam - NO CTA,Messenger,Website - EU,Lookalike,10,0,,$0.00,0.00%,0,0,0
+Image 4 - Multicam - CTA,Facebook,Website - US,Lookalike,17643,645,359,$127.47,3.66%,0.197627907,7.224961741,0.355069638
+Image 4 - Multicam - CTA,Instagram,Website - US,Lookalike,7001,233,138,$62.11,3.33%,0.266566524,8.871589773,0.450072464
+Image 4 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,2587,118,27,$12.10,4.56%,0.102542373,4.677232315,0.448148148
+Image 4 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,3391,98,24,$11.05,2.89%,0.112755102,3.258625774,0.460416667
+Image 4 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,681,36,13,$5.12,5.29%,0.142222222,7.51835536,0.393846154
+Image 4 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,1844,57,11,$4.56,3.09%,0.08,2.472885033,0.414545455
+Image 4 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,225,7,3,$2.17,3.11%,0.31,9.644444444,0.723333333
+Image 4 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,220,7,2,$1.32,3.18%,0.188571429,6,0.66
+Image 4 - Multicam - CTA,Uncategorized,Website - US,Lookalike,0,0,2,$0.00,0.00%,0,0,0
+Image 4 - Multicam - CTA,Audience Network,Website - US,Lookalike,188,8,2,$0.69,4.26%,0.08625,3.670212766,0.345
+Image 4 - Multicam - CTA,Instagram,Website - EU,Lookalike,1347,29,1,$6.17,2.15%,0.212758621,4.580549369,6.17
+Image 4 - Multicam - CTA,Facebook,Website - EU,Lookalike,1387,37,1,$5.91,2.67%,0.15972973,4.260994953,5.91
+Image 4 - Multicam - CTA,Messenger,Website - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 4 - Multicam - CTA,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 5 - Black - CTA,Instagram,Website - US,Lookalike,12393,556,363,$145.59,4.49%,0.261852518,11.74776083,0.40107438
+Image 5 - Black - CTA,Facebook,Website - US,Lookalike,5824,196,100,$42.15,3.37%,0.21505102,7.237293956,0.4215
+Image 5 - Black - CTA,Instagram,Website - EU,Lookalike,5622,127,44,$29.18,2.26%,0.22976378,5.190323728,0.663181818
+Image 5 - Black - CTA,Facebook,Website - EU,Lookalike,2466,35,15,$7.95,1.42%,0.227142857,3.223844282,0.53
+Image 5 - Black - CTA,Uncategorized,Website - US,Lookalike,0,0,3,$0.00,0.00%,0,0,0
+Image 5 - Black - CTA,Audience Network,Website - US,Lookalike,3,0,,$0.00,0.00%,0,0,0
+Image 5 - Black - CTA,Messenger,Website - EU,Lookalike,6,0,,$0.01,0.00%,0,1.666666667,0
+Image 6 - Ranger Green - NO CTA,Facebook,Facebook Leads - EU,Lookalike,24530,582,93,$44.61,2.37%,0.076649485,1.818589482,0.479677419
+Image 6 - Ranger Green - NO CTA,Instagram,Facebook Leads - EU,Lookalike,4824,132,37,$18.41,2.74%,0.139469697,3.816334992,0.497567568
+Image 6 - Ranger Green - NO CTA,Facebook,Facebook Leads - US,Lookalike,2761,79,18,$11.79,2.86%,0.149240506,4.270191959,0.655
+Image 6 - Ranger Green - NO CTA,Instagram,Facebook Leads - US,Lookalike,1513,53,17,$14.42,3.50%,0.272075472,9.530733642,0.848235294
+Image 6 - Ranger Green - NO CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,546,20,5,$4.68,3.66%,0.234,8.571428571,0.936
+Image 6 - Ranger Green - NO CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,342,11,4,$3.15,3.22%,0.286363636,9.210526316,0.7875
+Image 7 - Ranger Green - CTA,Facebook,Website - US,Lookalike,5319,154,76,$27.18,2.90%,0.176493506,5.10998308,0.357631579
+Image 7 - Ranger Green - CTA,Instagram,Facebook Leads - EU,Lookalike,5067,180,51,$22.75,3.55%,0.126388889,4.489836195,0.446078431
+Image 7 - Ranger Green - CTA,Instagram,Website - US,Lookalike,1356,59,29,$14.99,4.35%,0.254067797,11.05457227,0.516896552
+Image 7 - Ranger Green - CTA,Instagram,Website - EU,Lookalike,1032,30,5,$5.24,2.91%,0.174666667,5.07751938,1.048
+Image 7 - Ranger Green - CTA,Facebook,Facebook Leads - EU,Lookalike,1274,30,4,$3.09,2.35%,0.103,2.425431711,0.7725
+Image 7 - Ranger Green - CTA,Facebook,Website - EU,Lookalike,634,21,3,$2.03,3.31%,0.096666667,3.201892744,0.676666667
+Image 7 - Ranger Green - CTA,Messenger,Website - EU,Lookalike,3,0,,$0.00,0.00%,0,0,0
+Image 7 - Ranger Green - CTA,Messenger,Website - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 8 - Coyote Brown - CTA,Facebook,Facebook Leads - US,Lookalike,3759,128,46,$34.67,3.41%,0.270859375,9.223197659,0.753695652
+Image 8 - Coyote Brown - CTA,Instagram,Facebook Leads - US,Lookalike,2581,103,45,$31.78,3.99%,0.308543689,12.31305695,0.706222222
+Image 8 - Coyote Brown - CTA,Instagram,Facebook Leads - EU,Lookalike,1340,35,8,$7.16,2.61%,0.204571429,5.343283582,0.895
+Image 8 - Coyote Brown - CTA,Facebook,Facebook Leads - EU,Lookalike,2132,27,6,$4.78,1.27%,0.177037037,2.242026266,0.796666667
+Image 8 - Coyote Brown - CTA,Audience Network,Facebook Leads - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 9 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,1016,29,10,$4.78,2.85%,0.164827586,4.704724409,0.478
+Image 9 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,648,14,1,$1.56,2.16%,0.111428571,2.407407407,1.56
+Image 9 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,133,4,1,$1.44,3.01%,0.36,10.82706767,1.44
+Image 9 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,79,6,1,$0.37,7.59%,0.061666667,4.683544304,0.37
+Image 9 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,253,6,,$1.10,2.37%,0.183333333,4.347826087,0
+Image 9 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,38,1,,$0.32,2.63%,0.32,8.421052632,0
+Image 10 - Black - NO CTA,Facebook,Facebook Leads - US,Lookalike,4455,133,39,$29.60,2.99%,0.222556391,6.644219978,0.758974359
+Image 10 - Black - NO CTA,Instagram,Facebook Leads - US,Lookalike,1617,66,29,$18.50,4.08%,0.28030303,11.44094001,0.637931034
+Image 10 - Black - NO CTA,Instagram,Facebook Leads - EU,Lookalike,3648,101,26,$16.62,2.77%,0.164554455,4.555921053,0.639230769
+Image 10 - Black - NO CTA,Facebook,Facebook Leads - EU,Lookalike,5197,104,20,$12.01,2.00%,0.115480769,2.310948624,0.6005
+Image 10 - Black - NO CTA,Facebook,Website - US,Lookalike,1303,37,17,$6.70,2.84%,0.181081081,5.141980046,0.394117647
+Image 10 - Black - NO CTA,Instagram,Website - US,Lookalike,400,22,15,$5.35,5.50%,0.243181818,13.375,0.356666667
+Image 10 - Black - NO CTA,Instagram,Website - EU,Lookalike,570,12,3,$2.89,2.11%,0.240833333,5.070175439,0.963333333
+Image 10 - Black - NO CTA,Facebook,Website - EU,Lookalike,379,10,3,$1.55,2.64%,0.155,4.089709763,0.516666667
+Image 10 - Black - NO CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,33,2,1,$0.39,6.06%,0.195,11.81818182,0.39
+Image 10 - Black - NO CTA,Audience Network,Facebook Leads - US,Lookalike,5,0,,$0.01,0.00%,0,2,0
+Image 10 - Black - NO CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,35,1,,$0.19,2.86%,0.19,5.428571429,0
+Image 10 - Black - NO CTA,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 11 - Ranger Green - NO CTA,Instagram,Website - US,Lookalike,878,43,22,$9.91,4.90%,0.230465116,11.28701595,0.450454545
+Image 11 - Ranger Green - NO CTA,Facebook,Website - US,Lookalike,1277,39,18,$5.60,3.05%,0.143589744,4.385277995,0.311111111
+Image 11 - Ranger Green - NO CTA,Instagram,Facebook Leads - US,Lookalike,315,15,6,$3.70,4.76%,0.246666667,11.74603175,0.616666667
+Image 11 - Ranger Green - NO CTA,Instagram,Facebook Leads - EU,Lookalike,698,10,3,$3.23,1.43%,0.323,4.627507163,1.076666667
+Image 11 - Ranger Green - NO CTA,Facebook,Facebook Leads - US,Lookalike,258,9,3,$1.27,3.49%,0.141111111,4.92248062,0.423333333
+Image 11 - Ranger Green - NO CTA,Facebook,Facebook Leads - EU,Lookalike,938,16,1,$2.33,1.71%,0.145625,2.484008529,2.33
+Image 11 - Ranger Green - NO CTA,Facebook,Website - EU,Lookalike,303,3,1,$1.27,0.99%,0.423333333,4.191419142,1.27
+Image 11 - Ranger Green - NO CTA,Messenger,Website - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 11 - Ranger Green - NO CTA,Instagram,Website - EU,Lookalike,534,14,,$2.59,2.62%,0.185,4.850187266,0
+Image 12 - Ranger Green - CTA,Facebook,Website - US,Lookalike,27100,842,421,$166.16,3.11%,0.197339667,6.131365314,0.394679335
+Image 12 - Ranger Green - CTA,Instagram,Website - US,Lookalike,14911,632,320,$133.11,4.24%,0.210617089,8.926966669,0.41596875
+Image 12 - Ranger Green - CTA,Instagram,Website - EU,Lookalike,37738,694,128,$133.03,1.84%,0.191685879,3.52509407,1.039296875
+Image 12 - Ranger Green - CTA,Facebook,Website - EU,Lookalike,24140,506,42,$63.69,2.10%,0.125869565,2.638359569,1.516428571
+Image 12 - Ranger Green - CTA,Instagram,Facebook Leads - EU,Lookalike,5537,149,41,$27.08,2.69%,0.181744966,4.890735055,0.660487805
+Image 12 - Ranger Green - CTA,Facebook,Facebook Leads - EU,Lookalike,13250,227,33,$24.07,1.71%,0.106035242,1.816603774,0.729393939
+Image 12 - Ranger Green - CTA,Instagram,Facebook Leads - US,Lookalike,1050,37,10,$9.31,3.52%,0.251621622,8.866666667,0.931
+Image 12 - Ranger Green - CTA,Facebook,Facebook Leads - US,Lookalike,1693,37,7,$5.13,2.19%,0.138648649,3.03012404,0.732857143
+Image 12 - Ranger Green - CTA,Uncategorized,Website - US,Lookalike,0,0,2,$0.00,0.00%,0,0,0
+Image 12 - Ranger Green - CTA,Uncategorized,Website - EU,Lookalike,0,0,1,$0.00,0.00%,0,0,0
+Image 12 - Ranger Green - CTA,Audience Network,Website - US,Lookalike,53,0,,$0.43,0.00%,0,8.113207547,0
+Image 12 - Ranger Green - CTA,Messenger,Website - EU,Lookalike,18,0,,$0.00,0.00%,0,0,0
+Image 12 - Ranger Green - CTA,Audience Network,Website - EU,Lookalike,7,0,,$0.03,0.00%,0,4.285714286,0
+Image 13 - Multicam - CTA,Instagram,Website - EU,Lookalike,3119,70,28,$15.36,2.24%,0.219428571,4.924655338,0.548571429
+Image 13 - Multicam - CTA,Facebook,Website - EU,Lookalike,2017,33,11,$5.18,1.64%,0.156969697,2.56817055,0.470909091
+Image 13 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,1654,27,6,$3.82,1.63%,0.141481481,2.3095526,0.636666667
+Image 13 - Multicam - CTA,Instagram,Website - US,Lookalike,203,16,4,$2.55,7.88%,0.159375,12.56157635,0.6375
+Image 13 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,169,8,3,$2.02,4.73%,0.2525,11.95266272,0.673333333
+Image 13 - Multicam - CTA,Facebook,Website - US,Lookalike,244,6,3,$1.93,2.46%,0.321666667,7.909836066,0.643333333
+Image 13 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,681,15,3,$5.12,2.20%,0.341333333,7.51835536,1.706666667
+Image 13 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,255,11,3,$2.54,4.31%,0.230909091,9.960784314,0.846666667
+Image 13 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,266,8,1,$1.86,3.01%,0.2325,6.992481203,1.86
+Image 13 - Multicam - CTA,Uncategorized,Website - EU,Lookalike,0,0,1,$0.00,0.00%,0,0,0
+Image 13 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,93,2,,$0.64,2.15%,0.32,6.88172043,0
+Image 13 - Multicam - CTA,Messenger,Website - EU,Lookalike,2,0,,$0.01,0.00%,0,5,0
+Image 14 - Multicam - CTA,Instagram,Website - EU,Lookalike,8641,183,80,$39.50,2.12%,0.215846995,4.571230182,0.49375
+Image 14 - Multicam - CTA,Instagram,Website - US,Lookalike,2693,135,69,$32.15,5.01%,0.238148148,11.93835871,0.465942029
+Image 14 - Multicam - CTA,Facebook,Website - US,Lookalike,2116,50,25,$10.97,2.36%,0.2194,5.184310019,0.4388
+Image 14 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,599,19,9,$6.52,3.17%,0.343157895,10.88480801,0.724444444
+Image 14 - Multicam - CTA,Facebook,Website - EU,Lookalike,2646,35,8,$7.78,1.32%,0.222285714,2.940287226,0.9725
+Image 14 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,566,21,6,$7.26,3.71%,0.345714286,12.82685512,1.21
+Image 14 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,201,8,3,$2.12,3.98%,0.265,10.54726368,0.706666667
+Image 14 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,752,12,3,$3.97,1.60%,0.330833333,5.279255319,1.323333333
+Image 14 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,729,20,2,$1.92,2.74%,0.096,2.633744856,0.96
+Image 14 - Multicam - CTA,Uncategorized,Website - EU,Lookalike,0,0,1,$0.00,0.00%,0,0,0
+Image 14 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,152,4,,$1.01,2.63%,0.2525,6.644736842,0
+Image 14 - Multicam - CTA,Messenger,Website - EU,Lookalike,5,0,,$0.01,0.00%,0,2,0
+Image 15 - Black - CTA,Instagram,Facebook Leads - EU,Lookalike,1681,31,11,$8.48,1.84%,0.273548387,5.0446163,0.770909091
+Image 15 - Black - CTA,Instagram,Website - EU,Lookalike,938,27,6,$2.33,2.88%,0.086296296,2.484008529,0.388333333
+Image 15 - Black - CTA,Instagram,Facebook Leads - US,Lookalike,547,12,5,$4.64,2.19%,0.386666667,8.482632541,0.928
+Image 15 - Black - CTA,Facebook,Website - EU,Lookalike,384,14,4,$2.03,3.65%,0.145,5.286458333,0.5075
+Image 15 - Black - CTA,Facebook,Facebook Leads - US,Lookalike,480,11,4,$3.17,2.29%,0.288181818,6.604166667,0.7925
+Image 15 - Black - CTA,Facebook,Facebook Leads - EU,Lookalike,2184,24,3,$5.64,1.10%,0.235,2.582417582,1.88
+Image 15 - Black - CTA,Instagram,Website - US,Lookalike,267,7,3,$2.96,2.62%,0.422857143,11.08614232,0.986666667
+Image 15 - Black - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,48,2,1,$0.38,4.17%,0.19,7.916666667,0.38
+Image 15 - Black - CTA,Facebook,Website - US,Lookalike,394,8,1,$2.21,2.03%,0.27625,5.609137056,2.21
+Image 15 - Black - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,61,0,,$0.51,0.00%,0,8.360655738,0
+Image 16 - Multicam Black - CTA,Instagram,Facebook Leads - EU,Lookalike,2054,56,18,$10.69,2.73%,0.190892857,5.204479065,0.593888889
+Image 16 - Multicam Black - CTA,Instagram,Facebook Leads - US,Lookalike,703,27,11,$7.50,3.84%,0.277777778,10.6685633,0.681818182
+Image 16 - Multicam Black - CTA,Facebook,Facebook Leads - US,Lookalike,1380,38,8,$5.77,2.75%,0.151842105,4.18115942,0.72125
+Image 16 - Multicam Black - CTA,Facebook,Facebook Leads - EU,Lookalike,2848,50,6,$5.08,1.76%,0.1016,1.783707865,0.846666667
+Image 16 - Multicam Black - CTA,Instagram,Website - EU,Lookalike,640,15,3,$3.95,2.34%,0.263333333,6.171875,1.316666667
+Image 16 - Multicam Black - CTA,Facebook,Website - US,Lookalike,126,4,2,$0.61,3.17%,0.1525,4.841269841,0.305
+Image 16 - Multicam Black - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,80,2,1,$0.33,2.50%,0.165,4.125,0.33
+Image 16 - Multicam Black - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,6,0,,$0.01,0.00%,0,1.666666667,0
+Image 16 - Multicam Black - CTA,Instagram,Website - US,Lookalike,130,0,,$1.40,0.00%,0,10.76923077,0
+Image 16 - Multicam Black - CTA,Facebook,Website - EU,Lookalike,339,4,,$1.14,1.18%,0.285,3.362831858,0
+Image 17 - Multicam - CTA,Instagram,Website - US,Lookalike,843,27,24,$9.86,3.20%,0.365185185,11.69632266,0.410833333
+Image 17 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,1617,67,21,$18.50,4.14%,0.276119403,11.44094001,0.880952381
+Image 17 - Multicam - CTA,Facebook,Website - US,Lookalike,1566,35,9,$7.62,2.23%,0.217714286,4.865900383,0.846666667
+Image 17 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,2357,55,9,$4.69,2.33%,0.085272727,1.989817565,0.521111111
+Image 17 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,173,11,4,$1.64,6.36%,0.149090909,9.479768786,0.41
+Image 17 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,796,12,3,$3.14,1.51%,0.261666667,3.944723618,1.046666667
+Image 17 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,1160,13,2,$6.34,1.12%,0.487692308,5.465517241,3.17
+Image 17 - Multicam - CTA,Uncategorized,Website - US,Lookalike,0,0,1,$0.00,0.00%,0,0,0
+Image 17 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,94,3,1,$0.60,3.19%,0.2,6.382978723,0.6
+Image 18 - Multicam - NO CTA,Instagram,Website - US,Lookalike,34521,1550,683,$327.40,4.49%,0.211225806,9.484082153,0.479355783
+Image 18 - Multicam - NO CTA,Facebook,Website - US,Lookalike,21022,768,405,$156.85,3.65%,0.204231771,7.461231091,0.387283951
+Image 18 - Multicam - NO CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,637,28,7,$3.68,4.40%,0.131428571,5.777080063,0.525714286
+Image 18 - Multicam - NO CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,472,19,6,$4.38,4.03%,0.230526316,9.279661017,0.73
+Image 18 - Multicam - NO CTA,Uncategorized,Website - US,Lookalike,0,0,3,$0.00,0.00%,0,0,0
+Image 18 - Multicam - NO CTA,Instagram,Facebook Leads - US,Lookalike,482,13,3,$4.42,2.70%,0.34,9.170124481,1.473333333
+Image 18 - Multicam - NO CTA,Audience Network,Website - US,Lookalike,23,1,1,$0.14,4.35%,0.14,6.086956522,0.14
+Image 18 - Multicam - NO CTA,Facebook,Facebook Leads - US,Lookalike,479,14,1,$2.04,2.92%,0.145714286,4.258872651,2.04
+Image 18 - Multicam - NO CTA,Messenger,Website - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 19 - Ranger Green - CTA,Facebook,Facebook Leads - EU,Lookalike,1880,34,8,$4.18,1.81%,0.122941176,2.223404255,0.5225
+Image 19 - Ranger Green - CTA,Facebook,Facebook Leads - US,Lookalike,436,18,5,$3.63,4.13%,0.201666667,8.325688073,0.726
+Image 19 - Ranger Green - CTA,Instagram,Facebook Leads - EU,Lookalike,520,16,4,$2.70,3.08%,0.16875,5.192307692,0.675
+Image 19 - Ranger Green - CTA,Instagram,Website - US,Lookalike,234,7,3,$2.60,2.99%,0.371428571,11.11111111,0.866666667
+Image 19 - Ranger Green - CTA,Instagram,Facebook Leads - US,Lookalike,272,5,1,$2.66,1.84%,0.532,9.779411765,2.66
+Image 19 - Ranger Green - CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,194,8,1,$0.89,4.12%,0.11125,4.587628866,0.89
+Image 19 - Ranger Green - CTA,Facebook,Website - US,Lookalike,176,2,1,$1.10,1.14%,0.55,6.25,1.1
+Image 19 - Ranger Green - CTA,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 19 - Ranger Green - CTA,Instagram,Website - EU,Lookalike,452,4,,$2.19,0.88%,0.5475,4.845132743,0
+Image 19 - Ranger Green - CTA,Facebook,Website - EU,Lookalike,187,3,,$0.78,1.60%,0.26,4.171122995,0
+Image 19 - Ranger Green - CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,134,2,,$1.11,1.49%,0.555,8.28358209,0
+Image 20 - Ranger Green - NO CTA,Instagram,Facebook Leads - US,Lookalike - Shopify,4426,227,64,$34.29,5.13%,0.151057269,7.747401717,0.53578125
+Image 20 - Ranger Green - NO CTA,Facebook,Facebook Leads - US,Lookalike - Shopify,4631,205,52,$21.89,4.43%,0.106780488,4.726840855,0.420961538
+Image 21 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,500,15,5,$6.91,3.00%,0.460666667,13.82,1.382
+Image 21 - Multicam - CTA,Instagram,Website - EU,Lookalike,922,14,4,$3.89,1.52%,0.277857143,4.219088937,0.9725
+Image 21 - Multicam - CTA,Instagram,Website - US,Lookalike,200,8,4,$0.97,4.00%,0.12125,4.85,0.2425
+Image 21 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,557,8,2,$2.66,1.44%,0.3325,4.775583483,1.33
+Image 21 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,403,7,1,$2.73,1.74%,0.39,6.774193548,2.73
+Image 21 - Multicam - CTA,Facebook,Website - US,Lookalike,325,4,1,$1.58,1.23%,0.395,4.861538462,1.58
+Image 21 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,771,10,,$1.73,1.30%,0.173,2.24383917,0
+Image 21 - Multicam - CTA,Messenger,Website - EU,Lookalike,3,0,,$0.00,0.00%,0,0,0
+Image 21 - Multicam - CTA,Facebook,Website - EU,Lookalike,297,4,,$1.10,1.35%,0.275,3.703703704,0
+Image 22 - Multicam - NO CTA,Instagram,Website - US,Lookalike,1339,59,40,$14.74,4.41%,0.249830508,11.00821509,0.3685
+Image 22 - Multicam - NO CTA,Facebook,Website - US,Lookalike,1843,50,24,$9.95,2.71%,0.199,5.398806294,0.414583333
+Image 22 - Multicam - NO CTA,Instagram,Facebook Leads - US,Lookalike,261,13,6,$2.37,4.98%,0.182307692,9.08045977,0.395
+Image 22 - Multicam - NO CTA,Instagram,Facebook Leads - EU,Lookalike,546,12,3,$4.68,2.20%,0.39,8.571428571,1.56
+Image 22 - Multicam - NO CTA,Instagram,Website - EU,Lookalike,475,11,2,$2.67,2.32%,0.242727273,5.621052632,1.335
+Image 22 - Multicam - NO CTA,Facebook,Facebook Leads - EU,Lookalike,827,17,2,$1.76,2.06%,0.103529412,2.128174123,0.88
+Image 22 - Multicam - NO CTA,Facebook,Website - EU,Lookalike,420,6,1,$1.35,1.43%,0.225,3.214285714,1.35
+Image 22 - Multicam - NO CTA,Facebook,Facebook Leads - US,Lookalike,168,0,,$0.88,0.00%,0,5.238095238,0
+Image 22 - Multicam - NO CTA,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 23 - Black - CTA,Instagram,Website - EU,Lookalike,3034,71,16,$14.96,2.34%,0.210704225,4.930784443,0.935
+Image 23 - Black - CTA,Instagram,Website - US,Lookalike,655,29,14,$7.44,4.43%,0.256551724,11.35877863,0.531428571
+Image 23 - Black - CTA,Instagram,Facebook Leads - US,Lookalike,585,32,11,$7.13,5.47%,0.2228125,12.18803419,0.648181818
+Image 23 - Black - CTA,Facebook,Facebook Leads - EU,Lookalike,1481,26,5,$3.88,1.76%,0.149230769,2.619851452,0.776
+Image 23 - Black - CTA,Facebook,Facebook Leads - US,Lookalike,363,16,4,$2.90,4.41%,0.18125,7.988980716,0.725
+Image 23 - Black - CTA,Facebook,Website - US,Lookalike,705,21,4,$3.92,2.98%,0.186666667,5.560283688,0.98
+Image 23 - Black - CTA,Instagram,Facebook Leads - EU,Lookalike,1066,19,4,$4.71,1.78%,0.247894737,4.418386492,1.1775
+Image 23 - Black - CTA,Facebook,Website - EU,Lookalike,946,17,1,$2.90,1.80%,0.170588235,3.065539112,2.9
+Image 23 - Black - CTA,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 24 - Multicam - CTA,Instagram,Website - US,Lookalike,7508,246,161,$76.88,3.28%,0.312520325,10.23974427,0.477515528
+Image 24 - Multicam - CTA,Facebook,Website - US,Lookalike,5873,152,86,$36.87,2.59%,0.242565789,6.277881832,0.42872093
+Image 24 - Multicam - CTA,Instagram,Website - EU,Lookalike,6917,123,34,$28.72,1.78%,0.233495935,4.152089056,0.844705882
+Image 24 - Multicam - CTA,Facebook,Website - EU,Lookalike,3425,62,19,$11.39,1.81%,0.183709677,3.325547445,0.599473684
+Image 24 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,358,20,7,$4.11,5.59%,0.2055,11.48044693,0.587142857
+Image 24 - Multicam - CTA,Uncategorized,Website - US,Lookalike,0,0,6,$0.00,0.00%,0,0,0
+Image 24 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,1098,22,5,$4.90,2.00%,0.222727273,4.462659381,0.98
+Image 24 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,450,9,2,$2.96,2.00%,0.328888889,6.577777778,1.48
+Image 24 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,1429,12,1,$3.46,0.84%,0.288333333,2.421273618,3.46
+Image 24 - Multicam - CTA,Audience Network,Website - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Image 25 - Multicam - CTA,Instagram,Website - US,Lookalike,6096,232,135,$66.21,3.81%,0.285387931,10.86122047,0.490444444
+Image 25 - Multicam - CTA,Facebook,Website - US,Lookalike,5229,182,101,$37.68,3.48%,0.207032967,7.205966724,0.373069307
+Image 25 - Multicam - CTA,Instagram,Website - EU,Lookalike,5985,121,9,$26.19,2.02%,0.216446281,4.37593985,2.91
+Image 25 - Multicam - CTA,Instagram,Facebook Leads - EU,Lookalike,756,17,5,$3.48,2.25%,0.204705882,4.603174603,0.696
+Image 25 - Multicam - CTA,Facebook,Website - EU,Lookalike,2238,38,2,$7.35,1.70%,0.193421053,3.284182306,3.675
+Image 25 - Multicam - CTA,Instagram,Facebook Leads - US,Lookalike,162,3,1,$1.39,1.85%,0.463333333,8.580246914,1.39
+Image 25 - Multicam - CTA,Facebook,Facebook Leads - US,Lookalike,200,7,1,$0.97,3.50%,0.138571429,4.85,0.97
+Image 25 - Multicam - CTA,Facebook,Facebook Leads - EU,Lookalike,770,10,1,$1.96,1.30%,0.196,2.545454545,1.96
+Image 25 - Multicam - CTA,Messenger,Website - EU,Lookalike,3,0,,$0.00,0.00%,0,0,0
+Image 25 - Multicam - CTA,Audience Network,Website - US,Lookalike,3,0,,$0.00,0.00%,0,0,0
+Image 26 - Ranger Green - CTA,Instagram,Facebook Leads - EU,Lookalike,828,12,4,$4.43,1.45%,0.369166667,5.350241546,1.1075
+Image 26 - Ranger Green - CTA,Instagram,Facebook Leads - US,Lookalike,216,7,3,$1.99,3.24%,0.284285714,9.212962963,0.663333333
+Image 26 - Ranger Green - CTA,Instagram,Website - EU,Lookalike,261,5,3,$2.37,1.92%,0.474,9.08045977,0.79
+Image 26 - Ranger Green - CTA,Facebook,Facebook Leads - EU,Lookalike,753,12,2,$2.04,1.59%,0.17,2.709163347,1.02
+Image 26 - Ranger Green - CTA,Facebook,Facebook Leads - US,Lookalike,160,2,1,$0.98,1.25%,0.49,6.125,0.98
+Image 26 - Ranger Green - CTA,Facebook,Website - EU,Lookalike,169,5,1,$2.02,2.96%,0.404,11.95266272,2.02
+Image 26 - Ranger Green - CTA,Instagram,Website - US,Lookalike,164,5,1,$2.01,3.05%,0.402,12.25609756,2.01
+Image 26 - Ranger Green - CTA,Facebook,Website - US,Lookalike,357,6,,$1.41,1.68%,0.235,3.949579832,0
+Video 7,Instagram,Facebook Leads - US,Lookalike,923,32,10,$7.94,3.47%,0.248125,8.602383532,0.794
+Video 7,Facebook,Facebook Leads - US,Lookalike,523,35,10,$4.68,6.69%,0.133714286,8.948374761,0.468
+Image 27 - Ranger Green - CTA,Facebook,Facebook Leads - US,Lookalike,89719,3341,653,$383.51,3.72%,0.114788985,4.274568375,0.587304747
+Image 27 - Ranger Green - CTA,Instagram,Facebook Leads - US,Lookalike,30274,1579,493,$288.65,5.22%,0.182805573,9.534584132,0.585496957
+Image 27 - Ranger Green - CTA,Audience Network,Facebook Leads - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Video 8,Facebook,Website - US,Lookalike,3550,175,59,$27.54,4.93%,0.157371429,7.757746479,0.466779661
+Video 8,Instagram,Facebook Leads - US,Lookalike,2892,122,38,$23.75,4.22%,0.194672131,8.21230982,0.625
+Video 8,Instagram,Website - US,Lookalike,1253,28,16,$12.05,2.23%,0.430357143,9.616919393,0.753125
+Video 8,Instagram,Website - EU,Lookalike,1762,52,9,$6.78,2.95%,0.130384615,3.847900114,0.753333333
+Video 8,Instagram,Facebook Leads - EU,Lookalike,2253,50,9,$8.49,2.22%,0.1698,3.768308921,0.943333333
+Video 8,Facebook,Facebook Leads - US,Lookalike,715,34,6,$5.49,4.76%,0.161470588,7.678321678,0.915
+Video 8,Facebook,Website - EU,Lookalike,1316,58,4,$4.25,4.41%,0.073275862,3.229483283,1.0625
+Video 8,Facebook,Facebook Leads - EU,Lookalike,555,19,2,$1.77,3.42%,0.093157895,3.189189189,0.885
+Video 8,Audience Network,Website - US,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Video 9,Facebook,Website - US,Lookalike,164,18,1,$2.01,10.98%,0.111666667,12.25609756,2.01
+Video 9,Instagram,Website - US,Lookalike,10,0,,$0.00,0.00%,0,0,0
+Video 9,Instagram,Website - EU,Lookalike,410,6,,$1.14,1.46%,0.19,2.780487805,0
+Video 9,Facebook,Website - EU,Lookalike,95,7,,$0.39,7.37%,0.055714286,4.105263158,0
+Video 10,Facebook,Website - US,Lookalike,67692,3866,1302,$526.28,5.71%,0.136130367,7.774626248,0.404208909
+Video 10,Instagram,Website - US,Lookalike,29846,1365,667,$268.53,4.57%,0.196725275,8.997185553,0.402593703
+Video 10,Facebook,Facebook Leads - US,Lookalike,9415,633,120,$69.38,6.72%,0.109605055,7.369091875,0.578166667
+Video 10,Instagram,Facebook Leads - US,Lookalike,6892,363,107,$64.79,5.27%,0.178484848,9.400754498,0.605514019
+Video 10,Instagram,Facebook Leads - EU,Lookalike,7419,231,55,$29.57,3.11%,0.128008658,3.98571236,0.537636364
+Video 10,Instagram,Website - EU,Lookalike,6682,174,49,$27.38,2.60%,0.157356322,4.097575576,0.55877551
+Video 10,Facebook,Website - EU,Lookalike,4058,178,23,$15.25,4.39%,0.085674157,3.758008871,0.663043478
+Video 10,Facebook,Facebook Leads - EU,Lookalike,2986,123,8,$8.47,4.12%,0.068861789,2.836570663,1.05875
+Video 10,Audience Network,Website - US,Lookalike,36,1,,$0.32,2.78%,0.32,8.888888889,0
+Video 10,Messenger,Website - EU,Lookalike,1,0,,$0.00,0.00%,0,0,0
+Video 11,Facebook,Website - US,Lookalike,55,4,1,$0.31,7.27%,0.0775,5.636363636,0.31
+Video 11,Instagram,Website - US,Lookalike,9,0,,$0.10,0.00%,0,11.11111111,0
+Video 12,Facebook,Website - EU,Lookalike,1472,29,1,$0.52,1.97%,0.017931034,0.35326087,0.52
+Video 12,Instagram,Website - EU,Lookalike,212,2,,$0.89,0.94%,0.445,4.198113208,0
+Video 13,Facebook,Website - US,Lookalike,25,1,1,$0.07,4.00%,0.07,2.8,0.07
+Video 13,Instagram,Website - US,Lookalike,2,0,,$0.01,0.00%,0,5,0
+Video 14,Instagram,Website - EU,Lookalike,142,4,,$0.57,2.82%,0.1425,4.014084507,0
+Video 14,Facebook,Website - EU,Lookalike,75,4,,$0.21,5.33%,0.0525,2.8,0
+Video 15,Instagram,Website - US,Lookalike,4,0,,$0.03,0.00%,0,7.5,0
+Video 15,Facebook,Website - US,Lookalike,47,1,,$0.17,2.13%,0.17,3.617021277,0
+Video 16,Instagram,Website - EU,Lookalike,157,6,,$0.58,3.82%,0.096666667,3.694267516,0
+Video 16,Facebook,Website - EU,Lookalike,73,7,,$0.26,9.59%,0.037142857,3.561643836,0
+Video 17,Facebook,Website - US,Lookalike,35,7,1,$0.19,20.00%,0.027142857,5.428571429,0.19
+Video 17,Instagram,Website - US,Lookalike,3,0,,$0.00,0.00%,0,0,0
+Video 18,Instagram,Website - EU,Lookalike,183,2,,$0.54,1.09%,0.27,2.950819672,0
+Video 18,Facebook,Website - EU,Lookalike,103,1,,$0.35,0.97%,0.35,3.398058252,0
+Video 19,Instagram,Website - US,Lookalike,2,0,,$0.01,0.00%,0,5,0
+Video 19,Facebook,Website - US,Lookalike,21,0,,$0.07,0.00%,0,3.333333333,0
+Video 20,Instagram,Website - EU,Lookalike,64,1,,$0.15,1.56%,0.15,2.34375,0
+Video 20,Facebook,Website - EU,Lookalike,63,3,,$0.14,4.76%,0.046666667,2.222222222,0
+Video 21,Instagram,Website - US,Lookalike,6,0,,$0.01,0.00%,0,1.666666667,0
+Video 21,Facebook,Website - US,Lookalike,18,1,,$0.00,5.56%,0,0,0
+Video 22,Instagram,Website - EU,Lookalike,586,16,,$1.45,2.73%,0.090625,2.47440273,0
+Video 22,Facebook,Website - EU,Lookalike,315,9,,$3.70,2.86%,0.411111111,11.74603175,0
+Video 23,Facebook,Website - US,Lookalike,97,8,1,$0.43,8.25%,0.05375,4.432989691,0.43
+Video 23,Instagram,Website - US,Lookalike,9,1,,$0.10,11.11%,0.1,11.11111111,0
+Video 24,Instagram,Website - EU,Lookalike,107,2,,$0.30,1.87%,0.15,2.803738318,0
+Video 24,Facebook,Website - EU,Lookalike,988,10,,$0.10,1.01%,0.01,0.101214575,0
+Video 25,Facebook,Website - US,Lookalike,11,1,1,$0.14,9.09%,0.14,12.72727273,0.14
+Video 25,Instagram,Website - US,Lookalike,8,0,,$0.06,0.00%,0,7.5,0
+Video 26,Instagram,Website - EU,Lookalike,372,2,,$0.83,0.54%,0.415,2.231182796,0
+Video 26,Facebook,Website - EU,Lookalike,179,2,,$0.16,1.12%,0.08,0.893854749,0
+Video 27,Instagram,Facebook Leads - US,Lookalike,1063,37,13,$9.48,3.48%,0.256216216,8.918156162,0.729230769
+Video 27,Facebook,Facebook Leads - US,Lookalike,916,49,7,$6.58,5.35%,0.134285714,7.183406114,0.94
+Video 27,Instagram,Facebook Leads - EU,Lookalike,1284,24,6,$5.00,1.87%,0.208333333,3.894080997,0.833333333
+Video 27,Facebook,Facebook Leads - EU,Lookalike,550,11,,$1.53,2.00%,0.139090909,2.781818182,0
+Video 28,Facebook,Facebook Leads - US,Lookalike - Shopify,730,41,8,$4.68,5.62%,0.114146341,6.410958904,0.585
+Video 28,Instagram,Facebook Leads - US,Lookalike - Shopify,365,22,7,$4.01,6.03%,0.182272727,10.98630137,0.572857143
+Video 28,Instagram,Facebook Leads - EU,Lookalike,1336,28,6,$5.79,2.10%,0.206785714,4.333832335,0.965
+Video 28,Facebook,Facebook Leads - EU,Lookalike,870,20,3,$2.06,2.30%,0.103,2.367816092,0.686666667
+Video 29,Instagram,Facebook Leads - EU,Lookalike,9917,308,70,$43.21,3.11%,0.140292208,4.357164465,0.617285714
+Video 29,Instagram,Facebook Leads - US,Lookalike,3705,164,45,$30.77,4.43%,0.187621951,8.304993252,0.683777778
+Video 29,Facebook,Facebook Leads - EU,Lookalike,4147,159,21,$14.53,3.83%,0.091383648,3.503737642,0.691904762
+Video 29,Facebook,Facebook Leads - US,Lookalike,917,63,8,$6.03,6.87%,0.095714286,6.575790622,0.75375
+Video 29,Facebook,Facebook Leads - US,Lookalike - Shopify,310,28,7,$1.72,9.03%,0.061428571,5.548387097,0.245714286
+Video 29,Instagram,Facebook Leads - US,Lookalike - Shopify,235,14,5,$2.10,5.96%,0.15,8.936170213,0.42
+Video 30,Instagram,Facebook Leads - US,Lookalike,1043,42,11,$10.08,4.03%,0.24,9.66442953,0.916363636
+Video 30,Facebook,Facebook Leads - US,Lookalike,932,67,11,$6.64,7.19%,0.099104478,7.124463519,0.603636364
+Video 31,Instagram,Facebook Leads - EU,Lookalike,1764,33,8,$6.69,1.87%,0.202727273,3.792517007,0.83625
+Video 31,Facebook,Facebook Leads - EU,Lookalike,777,33,3,$2.28,4.25%,0.069090909,2.934362934,0.76
+Video 31,Facebook,Facebook Leads - EU,Lookalike,787,26,2,$2.28,3.30%,0.087692308,2.89707751,1.14
+Video 31,Instagram,Facebook Leads - EU,Lookalike,1241,17,1,$5.11,1.37%,0.300588235,4.117647059,5.11
+Video 31,Instagram,Facebook Leads - US,Lookalike - Shopify,10,0,,$0.00,0.00%,0,0,0
+Video 31,Facebook,Facebook Leads - US,Lookalike - Shopify,49,1,,$0.37,2.04%,0.37,7.551020408,0
+Video 32,Instagram,Facebook Leads - US,Lookalike,1500,74,23,$14.97,4.93%,0.202297297,9.98,0.650869565
+Video 32,Instagram,Facebook Leads - EU,Lookalike,1182,30,7,$5.51,2.54%,0.183666667,4.661590525,0.787142857
+Video 32,Facebook,Facebook Leads - US,Lookalike,863,40,6,$6.10,4.63%,0.1525,7.068366165,1.016666667
+Video 32,Instagram,Facebook Leads - US,Lookalike - Shopify,132,13,5,$1.28,9.85%,0.098461538,9.696969697,0.256
+Video 32,Facebook,Facebook Leads - EU,Lookalike,447,21,3,$1.71,4.70%,0.081428571,3.825503356,0.57
+Video 32,Facebook,Facebook Leads - US,Lookalike - Shopify,147,7,,$0.96,4.76%,0.137142857,6.530612245,0
+Video 33,Facebook,Facebook Leads - US,Lookalike,12588,948,200,$94.56,7.53%,0.099746835,7.511916111,0.4728
+Video 33,Instagram,Facebook Leads - US,Lookalike,10346,516,184,$85.13,4.99%,0.16498062,8.228300793,0.462663043
+Video 33,Instagram,Facebook Leads - EU,Lookalike,3369,108,25,$13.41,3.21%,0.124166667,3.980409617,0.5364
+Video 33,Facebook,Facebook Leads - EU,Lookalike,1329,51,7,$4.12,3.84%,0.080784314,3.100075245,0.588571429
+Video 33,Instagram,Facebook Leads - US,Lookalike - Shopify,10,4,2,$0.00,40.00%,0,0,0
+Video 33,Facebook,Facebook Leads - US,Lookalike - Shopify,44,3,1,$0.15,6.82%,0.05,3.409090909,0.15
+Video 34,Instagram,Facebook Leads - US,Lookalike,32508,1661,528,$279.09,5.11%,0.168025286,8.585271318,0.528579545
+Video 34,Facebook,Facebook Leads - US,Lookalike,14147,936,195,$105.21,6.62%,0.112403846,7.43691242,0.539538462
+Video 34,Instagram,Facebook Leads - US,Lookalike - Shopify,8264,442,149,$69.01,5.35%,0.156131222,8.350677638,0.463154362
+Video 34,Facebook,Facebook Leads - US,Lookalike - Shopify,7614,540,141,$53.55,7.09%,0.099166667,7.033096927,0.379787234
+Video 34,Instagram,Facebook Leads - EU,Lookalike,13410,380,97,$45.90,2.83%,0.120789474,3.422818792,0.473195876
+Video 34,Facebook,Facebook Leads - EU,Lookalike,3953,129,18,$8.85,3.26%,0.068604651,2.23880597,0.491666667
+Video 35,Facebook,Facebook Leads - US,Lookalike - Shopify,811,64,18,$6.82,7.89%,0.1065625,8.409371147,0.378888889
+Video 35,Facebook,Facebook Leads - US,Lookalike,336,33,6,$2.73,9.82%,0.082727273,8.125,0.455
+Video 35,Instagram,Facebook Leads - EU,Lookalike,1178,28,4,$4.71,2.38%,0.168214286,3.998302207,1.1775
+Video 35,Instagram,Facebook Leads - US,Lookalike,409,10,3,$3.53,2.44%,0.353,8.630806846,1.176666667
+Video 35,Facebook,Facebook Leads - EU,Lookalike,643,22,2,$1.82,3.42%,0.082727273,2.830482115,0.91
+Video 35,Instagram,Facebook Leads - US,Lookalike - Shopify,131,7,,$1.09,5.34%,0.155714286,8.320610687,0
