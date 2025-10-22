@@ -69,7 +69,38 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            padding: 0 5px 20px;
+            padding: 0 5px 3px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        .product-card {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            min-height: 300px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        .product-image-wrapper {
+            width: 100%;
+            height: 237px;
+            overflow: hidden;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .product-image {
+            width: 100%;
+            height: 237px;
+            object-position: inherit;
+            display: block;
+            min-width: 100%;
+            min-height: 237px;
         }
 
         /* Typography */
@@ -121,10 +152,11 @@
             padding: 10px 18px;
             border-radius: 6px;
             text-decoration: none;
-            margin-top: 15px;
+            /* margin-top: auto; */
             border: none;
             cursor: pointer;
             font-family: Arial, Helvetica, sans-serif;
+            align-self: center;
         }
 
         .btn:hover {
@@ -198,6 +230,14 @@
                 gap: 0;
             }
 
+            .product-card {
+                min-height: 300px;
+            }
+
+            .product-image-wrapper {
+                height: 200px;
+            }
+
             .px-30 {
                 padding-left: 20px;
                 padding-right: 20px;
@@ -239,95 +279,122 @@
             <div class="product-grid">
                 <!-- Category 1 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/combat-gear" class="no-underline">
-                        <img src="Images/02.jpg" alt="Tactical Gear Category 1" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/combat-gear'"
-                        class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/combat-gear" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/02.jpg" alt="Tactical Gear Category 1" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/combat-gear'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
 
                 <!-- Category 2 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/plate-carriers" class="no-underline">
-                        <img src="Images/03.jpg" alt="Tactical Gear Category 2" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/plate-carriers'"
-                        class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/plate-carriers" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/03.jpg" alt="Tactical Gear Category 2" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/plate-carriers'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
 
                 <!-- Category 3 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/pouches" class="no-underline">
-                        <img src="Images/04.jpg" alt="Tactical Gear Category 3" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/pouches'" class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/pouches" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/04.jpg" alt="Tactical Gear Category 3" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/pouches'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
 
                 <!-- Category 4 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/tactical-backpacks" class="no-underline">
-                        <img src="Images/05.jpg" alt="Tactical Gear Category 4" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/tactical-backpacks'"
-                        class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/tactical-backpacks" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/05.jpg" alt="Tactical Gear Category 4" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/tactical-backpacks'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
 
                 <!-- Category 5 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/bundles" class="no-underline">
-                        <img src="Images/06.jpg" alt="Tactical Gear Category 5" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/bundles'" class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/bundles" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/06.jpg" alt="Tactical Gear Category 5" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/bundles'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
 
                 <!-- Category 6 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/helmet-covers" class="no-underline">
-                        <img src="Images/07.jpg" alt="Tactical Gear Category 6" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/helmet-covers'"
-                        class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/helmet-covers" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/07.jpg" alt="Tactical Gear Category 6" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/helmet-covers'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
 
                 <!-- Category 7 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/tactical-gloves" class="no-underline">
-                        <img src="Images/08.jpg" alt="Tactical Gear Category 7" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/tactical-gloves'"
-                        class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/tactical-gloves" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/08.jpg" alt="Tactical Gear Category 7" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/tactical-gloves'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
 
                 <!-- Category 8 -->
                 <div class="product-item">
-                    <a href="https://agilitegear.com/collections/apparel" class="no-underline">
-                        <img src="Images/09.jpg" alt="Tactical Gear Category 8" width="280" height="280"
-                            class="img-fluid img-rounded">
-                    </a>
-                    <button onclick="window.location.href='https://agilitegear.com/collections/apparel'" class="btn">
-                        Shop Now
-                    </button>
+                    <div class="product-card">
+                        <a href="https://agilitegear.com/collections/apparel" class="no-underline">
+                            <div class="product-image-wrapper">
+                                <img src="Images/09.jpg" alt="Tactical Gear Category 8" class="product-image">
+                            </div>
+                        </a>
+                        <button onclick="window.location.href='https://agilitegear.com/collections/apparel'"
+                            class="btn">
+                            Shop Now
+                        </button>
+                    </div>
                 </div>
             </div>
 
